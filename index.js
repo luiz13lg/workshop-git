@@ -8,5 +8,10 @@ module.exports = class Calculator{
 		return (a-b);
 	}
 
+	// implementar as outras funções aqui
+	sum(a,b){
+		return(a+b);
+	}
+
 }
 
